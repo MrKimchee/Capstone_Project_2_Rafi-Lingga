@@ -3,4 +3,4 @@ File-file Python yang ada di repo ini merupakan gambaran visualisasi kasar hasil
 
 Untuk visualisasi yang lebih jelas, interaktif, dan terstruktur, silakan merujuk pada dashboard Tableau yang telah saya buat di sini: [Tableau Visual](https://public.tableau.com/app/profile/muhammad.rafi.lingga/viz/CapstoneProject2Finished/MainDasboard?publish=yes)
 
-(Source data Amazon Saas: [Kaggle]((https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales))
+(Source data Amazon Saas: [Kaggle]([(https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales)](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales))
