@@ -1,0 +1,4 @@
+Repositori ini berisi analisis awal data penjualan Amazon SaaS, yaitu sub unit dari Amzon market yang berfokus pada software. Data data yang ada mencakup informasi transaksi seperti Sales, Profit, Discount, Quantity, Country, Industry, Segment, hingga Product. Analisis ini bertujuan untuk mengeksplorasi pola distribusi penjualan, margin keuntungan, performa produk, serta perbandingan antar negara dan industri.
+File-file Python yang ada di repo ini merupakan gambaran visualisasi kasar hasil eksplorasi data menggunakan Pandas, Matplotlib, dan Seaborn. Hasil ini difokuskan untuk memberikan insight awal terkait distribusi data, potensi outlier, serta tren penjualan dan profitabilitas.
+
+Untuk visualisasi yang lebih jelas, interaktif, dan terstruktur, silakan merujuk pada dashboard Tableau yang telah saya buat di sini: [Tableau Visual](https://public.tableau.com/app/profile/muhammad.rafi.lingga/viz/CapstoneProject2Finished/MainDasboard?publish=yes)
